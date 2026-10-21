@@ -457,6 +457,11 @@
 2.42019359489239
 ],
 [
+"Massachusetts Institute of Technology",
+"massachusetts-institute-of-technology",
+1.9461971388549222
+],
+[
 "Georgia Institute of Technology",
 "georgia-institute-of-technology",
 1.6059906220244236
@@ -475,6 +480,11 @@
 "University of California, Berkeley",
 "university-of-california-berkeley",
 1.3835849619093554
+],
+[
+"Reed College",
+"reed-college",
+1.3682508130603301
 ],
 [
 "University of Texas at Austin",
@@ -505,16 +515,6 @@
 "Pitzer College",
 "pitzer-college",
 1.2765528573092
-],
-[
-"Macalester College",
-"macalester-college",
-1.2750595527235162
-],
-[
-"Colgate University",
-"colgate-university",
-1.273872807247473
 ]
 ],
 "fmt": "x",
@@ -860,9 +860,9 @@
 0.013067400275103164
 ],
 [
-"Trinity College",
-"trinity-college",
-0.0136986301369863
+"Allegheny College",
+"allegheny-college",
+0.013636363636363636
 ]
 ],
 "fmt": "pct",
@@ -955,93 +955,6 @@
 "fmt": "pct",
 "note": "Average % of need met for first-years with need, latest Common Data Set.",
 "color": "#1b9e5a"
-},
-{
-"id": "students-say-early-helps",
-"cat": "Early Decision",
-"title": "Do students who post their results see an Early Decision edge?",
-"answer": "Among students who posted results, ED applicants were admitted more often than Regular Decision applicants at 15 of 19 colleges.",
-"big": "15/19",
-"rows": [
-[
-"Northeastern University",
-"northeastern-university",
-3.9531914893617026
-],
-[
-"University of Chicago",
-"university-of-chicago",
-2.8
-],
-[
-"Vanderbilt University",
-"vanderbilt-university",
-2.7395833333333335
-],
-[
-"Dartmouth College",
-"dartmouth-college",
-1.8541666666666665
-],
-[
-"Northwestern University",
-"northwestern-university",
-1.6544117647058822
-],
-[
-"Rice University",
-"rice-university",
-1.4326647564469914
-],
-[
-"Duke University",
-"duke-university",
-1.4254658385093169
-],
-[
-"Emory University",
-"emory-university",
-1.3759590792838876
-],
-[
-"New York University",
-"new-york-university",
-1.3614457831325302
-],
-[
-"Cornell University",
-"cornell-university",
-1.3540856031128403
-],
-[
-"Williams College",
-"williams-college",
-1.3112391930835736
-],
-[
-"Brown University",
-"brown-university",
-1.2957198443579767
-],
-[
-"Columbia University",
-"columbia-university",
-1.206896551724138
-],
-[
-"University of Pennsylvania",
-"university-of-pennsylvania",
-1.127049180327869
-],
-[
-"Johns Hopkins University",
-"johns-hopkins-university",
-1.0949152542372882
-]
-],
-"fmt": "x",
-"note": "Self-reported results on Reddit and admissions forums: posters' ED admit rate \u00f7 RD admit rate. Posters are not a random sample.",
-"color": "#e8622c"
 },
 {
 "id": "most-loved",
@@ -1483,7 +1396,7 @@
 "cat": "Trends",
 "title": "Where are fewer and fewer students sending the SAT?",
 "answer": "At University of California, Merced, the share of first-years sending an SAT is falling about 26.7 points a year.",
-"big": "167",
+"big": "166",
 "rows": [
 [
 "University of California, Merced",

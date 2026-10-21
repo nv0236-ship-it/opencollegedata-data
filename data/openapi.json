@@ -7,6 +7,12 @@
   "license": {
    "name": "CC BY 4.0",
    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "termsOfService": "https://opencollegedata.org/terms/",
+  "contact": {
+   "name": "Open College Data",
+   "url": "https://opencollegedata.org/contact/",
+   "email": "hello@opencollegedata.org"
   }
  },
  "servers": [
@@ -88,6 +94,46 @@
       "description": "Common Data Set year, e.g. 2025-26"
      }
     ],
+    "responses": {
+     "200": {
+      "description": "OK",
+      "content": {
+       "text/csv": {}
+      }
+     }
+    }
+   }
+  },
+  "/colleges/{slug}/rankings.json": {
+   "get": {
+    "operationId": "college_rankings",
+    "summary": "This college's rank on every published list we hold (U.S. News, Forbes, QS, Times Higher Education, Niche), each credited and linked. Per college only: there is no list endpoint.",
+    "parameters": [
+     {
+      "name": "slug",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      },
+      "description": "college slug from colleges-index.json, e.g. boston-university"
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "OK",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/data/colleges.csv": {
+   "get": {
+    "operationId": "colleges_list",
+    "summary": "Our list: one row per college with our numbers (admit rate, ED, tests, aid, waitlist, deadlines) and each publisher's headline rank as a credited attribute.",
+    "parameters": [],
     "responses": {
      "200": {
       "description": "OK",

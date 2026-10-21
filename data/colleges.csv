@@ -1,9 +1,9 @@
 "# Open College Data, CC BY 4.0 (opencollegedata.org). Ranks are each publisher's own (U.S. News, Forbes, QS, Times Higher Education, Niche), collected 2026-10-20, shown here as attributes of our colleges; credit the publisher when you show one and do not republish a publisher's list."
 slug,name,state,control,cds_year,applicants,admits,admit_rate,enrolled,yield,ed_applicants,ed_admits,ed_admit_rate,ed_rate_is_estimate,ed_share_of_class,sat25,sat75,act25,act75,sat_sent_pct,need_met_pct,avg_need_grant,tuition,tuition_kind,waitlist_accepted,waitlist_admitted,single_sex,ed_deadline,rd_deadline,rank_usnews_national_2027,rank_usnews_liberal_arts_2027,rank_forbes_2027,rank_qs_world_2027,rank_the_world_2027,rank_niche_2027
-adelphi-university,Adelphi University,NY,Private,2018-19,13006.0,9648.0,0.7418,1245.0,0.129,,,,,,1080.0,1270.0,22,27,74.0,44.0,22579.0,36920.0,private,,,,11-15,02-15,191,,290,,1801,327
+adelphi-university,Adelphi University,NY,Private,2018-19,13006.0,9648.0,0.7418,1245.0,0.129,,,,,,1080.0,1270.0,22,27,74.0,44.0,22579.0,36920.0,private,,,,,,191,,290,,1801,327
 agnes-scott-college,Agnes Scott College,GA,Private (religious),2025-26,2070.0,1315.0,0.6353,198.0,0.1506,8.0,6.0,0.75,no,0.0303,1098.0,1280.0,25,31,29.0,70.0,43398.0,53256.0,private,,,women,11-01,05-01,,62,,,,
 alfred-university,Alfred University,NY,Private,2023-24,7775.0,3755.0,0.483,432.0,0.115,,,,,,1110.0,1280.0,24,32,26.0,92.0,33457.0,40180.0,private,,,,,,,,,,,
-allegheny-college,Allegheny College,PA,Private (religious),2024-25,5757.0,3139.0,0.5452,327.0,0.1042,124.0,29.0,0.2348,yes,0.0893,1165.0,1355.0,24,30,,92.0,38456.0,57400.0,private,,,,11-15,02-15,,85,405,,,308
+allegheny-college,Allegheny College,PA,Private (religious),2025-26,6151.0,3615.0,0.5877,311.0,0.086,135.0,67.0,0.4963,no,0.2154,1155.0,1360.0,21,28,30.0,89.0,37317.0,59050.0,private,220.0,3.0,,11-15,02-15,,85,405,,,308
 american-university,American University,DC,Private (religious),2025-26,20960.0,13741.0,0.6556,1545.0,0.1124,392.0,316.0,0.8061,no,0.2045,1320.0,1440.0,30,33,16.0,88.0,40439.0,62680.0,private,1785.0,1182.0,,11-01,01-15,95,,144,646,701,435
 amherst-college,Amherst College,MA,Private,2025-26,15819.0,1222.0,0.0772,485.0,0.3969,971.0,216.0,0.2225,no,0.4454,1470.0,1540.0,33,35,40.0,100.0,76445.0,73140.0,private,740.0,44.0,,12-15,01-05,,2,30,,,43
 appalachian-state-university,Appalachian State University,NC,Public,2024-25,24614.0,22188.0,0.9014,4038.0,0.182,,,,,,1140.0,1270.0,21,27,9.0,54.0,9608.0,24537.0,out-of-state,,,,,,,,301,,,378
@@ -20,7 +20,7 @@ beloit-college,Beloit College,WI,Private,2024-25,3853.0,2429.0,0.6304,224.0,0.09
 bennington-college,Bennington College,VT,Private,2025-26,2709.0,1008.0,0.3721,163.0,0.1617,272.0,47.0,0.1728,no,0.2883,1335.0,1475.0,33,34,14.0,92.0,67530.0,71700.0,private,103.0,43.0,,11-01,01-10,,132,457,,,
 bentley-university,Bentley University,MA,Private,2025-26,11403.0,5393.0,0.4729,1133.0,0.2101,719.0,460.0,0.6398,no,0.406,1230.0,1370.0,29,33,29.0,87.0,47954.0,65860.0,private,400.0,101.0,,11-15,01-15,,,182,,1201,188
 binghamton-university,Binghamton University,NY,Public,2025-26,61188.0,22832.0,0.3731,3201.0,0.1402,,,,,,1320.0,1480.0,31,34,43.0,79.0,13511.0,29453.0,out-of-state,5365.0,753.0,,,04-01,73,,63,1001,801,133
-boston-college,Boston College,MA,Private (religious),2024-25,35037.0,5755.0,0.1643,2501.0,0.4346,4288.0,1434.0,0.3344,no,0.5734,1460.0,1520.0,33,35,30.0,100.0,60503.0,72180.0,private,4139.0,352.0,,11-01,01-02,31,,51,549,284,50
+boston-college,Boston College,MA,Private (religious),2024-25,35037.0,5755.0,0.1643,2501.0,0.4346,4288.0,1434.0,0.3344,no,0.599,1460.0,1520.0,33,35,30.0,100.0,60503.0,72180.0,private,4139.0,352.0,,11-01,01-02,31,,51,549,284,50
 boston-university,Boston University,MA,Private,2025-26,76776.0,9853.0,0.1283,3449.0,0.35,6907.0,2165.0,0.3135,no,0.6277,1420.0,1510.0,33,34,36.0,98.0,66926.0,69870.0,private,10393.0,479.0,,11-01,01-05,34,,38,94,86,40
 bowdoin-college,Bowdoin College,ME,Private,2025-26,14045.0,957.0,0.0681,515.0,0.5381,1985.0,296.0,0.1491,no,0.5748,1470.0,1540.0,33,35,35.0,100.0,70186.0,71070.0,private,,,,11-15,01-05,,3,24,,,33
 bradley-university,Bradley University,IL,Private,2025-26,8539.0,6369.0,0.7459,643.0,0.101,,,,,,,,,,,80.0,32769.0,42860.0,private,,,,,,169,,287,,,526
@@ -45,7 +45,7 @@ case-western-reserve-university,Case Western Reserve University,OH,Private,2025-
 centre-college,Centre College,KY,Private,2025-26,4165.0,2006.0,0.4816,357.0,0.178,223.0,137.0,0.6143,no,0.3838,1203.0,1410.0,26,31,7.0,99.0,53223.0,57500.0,private,,,,11-01,,,54,261,,,281
 chapman-university,Chapman University,CA,Private (religious),2024-25,15634.0,10230.0,0.6543,1628.0,0.1591,282.0,145.0,0.5142,no,0.0891,1280.0,1410.0,28,31,14.0,79.0,23905.0,67490.0,private,1144.0,523.0,,11-01,01-15,100,,343,,,424
 claremont-mckenna-college,Claremont McKenna College,CA,Private,2025-26,6939.0,655.0,0.0944,335.0,0.5115,978.0,216.0,0.2209,no,0.6448,1480.0,1540.0,33,35,34.0,100.0,66407.0,64150.0,private,469.0,61.0,,11-01,01-10,,3,35,,,24
-clark-university,Clark University,MA,Private,2024-25,11452.0,4528.0,0.3954,486.0,0.1073,422.0,117.0,0.2764,yes,0.2402,1300.0,1450.0,30,33,16.0,95.0,43023.0,55160.0,private,309.0,57.0,,11-01,01-15,133,,340,951,1001,243
+clark-university,Clark University,MA,Private,2024-25,11452.0,4528.0,0.3954,486.0,0.1073,422.0,117.0,0.2764,yes,0.2402,1300.0,1450.0,30,33,16.0,95.0,43023.0,55160.0,private,309.0,57.0,,11-01,,133,,340,951,1001,243
 clarkson-university,Clarkson University,NY,Private,2025-26,4948.0,4082.0,0.825,525.0,0.1286,235.0,178.0,0.7574,no,0.339,1190.0,1360.0,26,31,49.0,83.0,42092.0,61594.0,private,9.0,3.0,,12-01,01-15,137,,225,1001,,332
 clemson-university,Clemson University,SC,Public,2024-25,61517.0,23586.0,0.3834,4880.0,0.2069,,,,,,1250.0,1400.0,28,32,35.0,49.0,13154.0,39498.0,out-of-state,3598.0,112.0,,,05-01,80,,160,951,701,76
 coastal-carolina-university,Coastal Carolina University,SC,Public,2025-26,24549.0,17192.0,0.7003,2931.0,0.1705,348.0,303.0,0.8707,no,0.1034,1060.0,1210.0,22,27,29.0,59.0,11969.0,29628.0,out-of-state,156.0,5.0,,10-15,02-01,,,,,,
@@ -58,9 +58,9 @@ college-of-the-holy-cross,College of the Holy Cross,MA,Private (religious),2023-
 colorado-college,Colorado College,CO,Private,2025-26,8822.0,1949.0,0.2209,510.0,0.2617,764.0,272.0,0.356,no,0.5333,1240.0,1430.0,28,34,28.0,100.0,65911.0,75702.0,private,90.0,20.0,,11-01,01-15,,34,148,,,195
 colorado-school-of-mines,Colorado School of Mines,CO,Public,2022-23,10886.0,6314.0,0.58,1515.0,0.2399,,,,,,1340.0,1460.0,30,33,45.0,67.0,5433.0,44376.0,out-of-state,224.0,6.0,,,,80,,100,575,451,116
 colorado-state-university,Colorado State University,CO,Public,2025-26,38365.0,34004.0,0.8863,5376.0,0.1581,,,,,,,,,,,71.0,12658.0,33751.0,out-of-state,,,,,07-31,169,,266,540,501,252
-columbia-university,Columbia University,NY,Private,2024-25,60115.0,2400.0,0.0399,1558.0,0.6492,6007.0,795.0,0.1323,no,0.5103,1510.0,1560.0,34,36,44.0,100.0,76553.0,70170.0,private,,,,11-01,01-01,12,,4,43,19,9
+columbia-university,Columbia University,NY,Private,2024-25,60115.0,2400.0,0.0399,1558.0,0.6492,6007.0,795.0,0.1323,no,0.5361,1510.0,1560.0,34,36,44.0,100.0,76553.0,70170.0,private,,,,11-01,01-01,12,,4,43,19,9
 connecticut-college,Connecticut College,CT,Private,2025-26,7338.0,2875.0,0.3918,459.0,0.1597,546.0,222.0,0.4066,no,0.4837,1160.0,1370.0,26,32,52.0,100.0,52660.0,64812.0,private,471.0,5.0,,11-15,01-15,,47,172,,,406
-cornell-university,Cornell University,NY,Private,2025-26,72523.0,6077.0,0.0838,3827.0,0.6298,11482.0,1328.0,0.1157,yes,0.3471,1490.0,1550.0,33,35,43.0,100.0,63023.0,73946.0,private,6598.0,254.0,,11-01,01-02,14,,14,16,21,21
+cornell-university,Cornell University,NY,Private,2025-26,72523.0,6077.0,0.0838,3827.0,0.6298,10057.0,1889.0,0.1878,no,0.4936,1490.0,1550.0,33,35,43.0,100.0,63023.0,73946.0,private,6598.0,254.0,,11-01,01-02,14,,14,16,21,21
 creighton-university,Creighton University,NE,Private (religious),2024-25,7907.0,6306.0,0.7975,1126.0,0.1786,,,,,,1250.0,1410.0,26,31,10.0,85.0,27620.0,48700.0,private,32.0,19.0,,,,100,,158,,,160
 dartmouth-college,Dartmouth College,NH,Private,2025-26,28230.0,1699.0,0.0602,1205.0,0.7092,3552.0,768.0,0.2162,no,0.6373,1440.0,1550.0,32,35,69.0,100.0,71873.0,69207.0,private,,,,11-01,01-03,12,,20,270,167,8
 davidson-college,Davidson College,NC,Private (religious),2025-26,8933.0,1127.0,0.1262,531.0,0.4712,1232.0,358.0,0.2906,no,0.6742,1410.0,1500.0,32,34,25.0,100.0,65233.0,73090.0,private,953.0,28.0,,11-15,01-10,,16,75,,,39
@@ -141,7 +141,7 @@ michigan-technological-university,Michigan Technological University,MI,Public,20
 middlebury-college,Middlebury College,VT,Private,2025-26,11831.0,1511.0,0.1277,634.0,0.4196,1179.0,460.0,0.3902,no,0.7256,1460.0,1530.0,33,35,33.0,100.0,62768.0,70120.0,private,1878.0,109.0,,11-01,01-01,,19,47,,,41
 milwaukee-school-of-engineering,Milwaukee School of Engineering,WI,Private,2025-26,5020.0,3369.0,0.6711,744.0,0.2208,,,,,,1205.0,1375.0,24,30,11.0,90.0,44271.0,49930.0,private,,,,,,,,294,,,610
 mississippi-state-university,Mississippi State University,MS,Public,2025-26,27333.0,22858.0,0.8363,4049.0,0.1771,,,,,,1000.0,1230.0,21,29,7.0,52.0,9855.0,26580.0,out-of-state,,,,,,208,,260,1001,701,124
-morehouse-college,Morehouse College,GA,Private,2023-24,5610.0,2883.0,0.5139,682.0,0.2366,114.0,68.0,0.5998,yes,0.1003,,,19,23,0.0,,19150.0,31725.0,private,,,men,11-01,02-01,,83,498,,,
+morehouse-college,Morehouse College,GA,Private,2023-24,5610.0,2883.0,0.5139,682.0,0.2366,1864.0,1322.0,0.7092,no,,,,19,23,0.0,,19150.0,31725.0,private,,,men,11-01,02-01,,83,498,,,
 mount-holyoke-college,Mount Holyoke College,MA,Private,2025-26,4619.0,1774.0,0.3841,536.0,0.3021,411.0,208.0,0.5061,no,0.3881,1365.0,1485.0,30,32,15.0,100.0,60742.0,71178.0,private,196.0,9.0,women,11-15,01-15,,34,300,,,145
 muhlenberg-college,Muhlenberg College,PA,Private (religious),2023-24,4348.0,2783.0,0.6401,427.0,0.1534,266.0,199.0,0.7481,no,0.466,1230.0,1390.0,28,31,33.0,88.0,45638.0,62035.0,private,156.0,1.0,,11-15,02-01,,62,307,,,516
 new-college-of-florida,New College of Florida,FL,Public,2025-26,1674.0,1070.0,0.6392,184.0,0.172,,,,,,1120.0,1280.0,21,27,74.0,100.0,15116.0,29944.0,out-of-state,6.0,4.0,,,07-01,,150,377,,,305
@@ -181,7 +181,7 @@ suny-college-of-environmental-science-and-forestry,SUNY College of Environmental
 suny-oneonta,SUNY Oneonta,NY,Public,2025-26,17294.0,13278.0,0.7678,1248.0,0.094,,,,,,980.0,1194.0,20,25,16.0,68.0,11001.0,19232.0,out-of-state,,,,,,,,,,,581
 suny-at-albany,SUNY at Albany,NY,Public,2024-25,32446.0,22417.0,0.6909,2828.0,0.1262,,,,,,1160.0,1310.0,24,30,10.0,62.0,12175.0,28998.0,out-of-state,,,,,07-01,121,,214,951,701,241
 suny-at-purchase-college,SUNY at Purchase College,NY,Public,2024-25,7845.0,5809.0,0.7405,750.0,0.1291,,,,,,1198.0,1363.0,27,30,6.0,,,18863.0,out-of-state,,,,,07-01,,128,,,,
-saint-louis-university,Saint Louis University,MO,Private (religious),2021-22,15047.0,10540.0,0.7005,1794.0,0.1702,408.0,322.0,0.7903,yes,0.1796,,,,,,83.0,33262.0,49800.0,private,,,,,,100,,202,1001,601,168
+saint-louis-university,Saint Louis University,MO,Private (religious),2021-22,15047.0,10540.0,0.7005,1794.0,0.1702,429.0,343.0,0.7992,yes,0.191,,,,,,83.0,33262.0,49800.0,private,,,,,,100,,202,1001,601,168
 saint-mary-s-college-of-california,Saint Mary's College of California,CA,Private (religious),2024-25,5175.0,4478.0,0.8653,424.0,0.0947,,,,,,,,,,,82.0,43940.0,59251.0,private,,,,,01-15,,,209,,,
 san-diego-state-university,San Diego State University,CA,Public,2024-25,89972.0,32561.0,0.3619,6629.0,0.2036,,,,,,,,,,,76.0,12250.0,20170.0,out-of-state,4802.0,1804.0,,,11-30,137,,94,1201,1001,248
 san-francisco-state-university,San Francisco State University,CA,Public,2020-21,31430.0,26431.0,0.8409,2779.0,0.1051,,,,,,940.0,1130.0,16,23,89.0,68.0,9771.0,19304.0,out-of-state,,,,,,227,,141,,,600
@@ -199,7 +199,7 @@ southwestern-university,Southwestern University,TX,Private (religious),2025-26,5
 spelman-college,Spelman College,GA,Private,2025-26,11533.0,2743.0,0.2378,648.0,0.2362,437.0,70.0,0.1602,no,0.108,1100.0,1300.0,22,28,30.0,19.0,17145.0,29025.0,private,2.0,0.0,women,11-01,02-01,,34,,,,306
 st-lawrence-university,St Lawrence University,NY,Private,2025-26,5229.0,2919.0,0.5582,418.0,0.1432,276.0,139.0,0.5036,no,0.3325,1270.0,1380.0,27,31,14.0,91.0,55572.0,69460.0,private,20.0,3.0,,11-02,02-01,,49,248,,,304
 st-olaf-college,St Olaf College,MN,Private (religious),2025-26,7310.0,3171.0,0.4338,778.0,0.2453,504.0,277.0,0.5496,no,0.356,1320.0,1440.0,28,32,13.0,100.0,56959.0,65700.0,private,472.0,23.0,,11-01,01-15,,49,204,,,140
-st-john-s-college,St. John's College,NM,Private,2022-23,452.0,244.0,0.5398,91.0,0.373,15.0,10.0,0.6667,no,0.1099,1293.0,1458.0,30,32,30.0,87.0,29781.0,38946.0,private,4.0,1.0,,,,,154,,,,
+st-john-s-college,St. John's College,NM,Private,2022-23,452.0,244.0,0.5398,91.0,0.373,15.0,10.0,0.6667,no,0.1136,1293.0,1458.0,30,32,30.0,87.0,29781.0,38946.0,private,4.0,1.0,,,,,154,,,,
 st-john-s-college-maryland,St. John's College - Maryland,MD,Private,2022-23,983.0,491.0,0.4995,130.0,0.2648,15.0,10.0,0.6667,no,0.0769,1260.0,1440.0,30,33,43.0,84.0,29115.0,39126.0,private,39.0,0.0,,,,,81,,,,
 st-mary-s-college-of-maryland,St. Mary's College of Maryland,MD,Public,2025-26,3504.0,2542.0,0.7255,404.0,0.1589,101.0,78.0,0.7723,no,0.1931,1110.0,1320.0,23,31,22.0,88.0,13277.0,31312.0,out-of-state,28.0,13.0,,11-01,01-15,,106,298,,,644
 stanford-university,Stanford University,CA,Private,2025-26,60646.0,2302.0,0.038,1839.0,0.7989,,,,,,1520.0,1570.0,34,36,56.0,100.0,72166.0,67731.0,private,573.0,57.0,,,01-05,5,,6,2,3,2
@@ -239,7 +239,7 @@ university-of-california-san-diego,"University of California, San Diego",CA,Publ
 university-of-california-santa-barbara,"University of California, Santa Barbara",CA,Public,2025-26,110187.0,42093.0,0.382,5081.0,0.1207,,,,,,,,,,,82.0,32900.0,45742.0,out-of-state,18022.0,9603.0,,,11-30,44,,39,173,71,85
 university-of-california-santa-cruz,"University of California, Santa Cruz",CA,Public,2025-26,66374.0,48274.0,0.7273,4596.0,0.0952,,,,,,,,,,,88.0,31152.0,45337.0,out-of-state,6444.0,2648.0,,,12-01,109,,80,458,201,399
 university-of-central-florida,University of Central Florida,FL,Public,2025-26,59629.0,25522.0,0.428,8103.0,0.3175,,,,,,1220.0,1350.0,25,30,74.0,72.0,9235.0,22467.0,out-of-state,2157.0,343.0,,,05-01,121,,145,731,551,96
-university-of-chicago,University of Chicago,IL,Private,2025-26,45533.0,2039.0,0.0448,1786.0,0.8759,5794.0,671.0,0.1158,yes,0.3756,1500.0,1560.0,34,35,57.0,100.0,78651.0,75960.0,private,,,,,01-06,9,,17,24,16,16
+university-of-chicago,University of Chicago,IL,Private,2025-26,45533.0,2039.0,0.0448,1786.0,0.8759,5859.0,666.0,0.1136,yes,0.3728,1500.0,1560.0,34,35,57.0,100.0,78651.0,75960.0,private,,,,,01-06,9,,17,24,16,16
 university-of-cincinnati,University of Cincinnati,OH,Public,2025-26,33750.0,29715.0,0.8804,6497.0,0.2186,,,,,,1160.0,1340.0,24,30,9.0,39.0,9106.0,30582.0,out-of-state,,,,,03-01,179,,278,741,,233
 university-of-colorado-boulder,University of Colorado Boulder,CO,Public,2024-25,67286.0,52534.0,0.7808,7432.0,0.1415,,,,,,1180.0,1390.0,27,33,25.0,73.0,19395.0,41943.0,out-of-state,1158.0,1007.0,,,01-15,109,,102,320,,198
 university-of-connecticut,University of Connecticut,CT,Public,2025-26,59553.0,32369.0,0.5435,4663.0,0.1441,1442.0,672.0,0.466,no,0.1441,1260.0,1420.0,29,32,35.0,63.0,21494.0,43034.0,out-of-state,1158.0,85.0,,11-01,07-31,73,,99,458,301,120
@@ -284,7 +284,7 @@ university-of-pennsylvania,University of Pennsylvania,PA,Private,2025-26,72544.0
 university-of-pittsburgh,University of Pittsburgh,PA,Public,2025-26,64724.0,38477.0,0.5945,5876.0,0.1527,,,,,,1280.0,1450.0,29,33,40.0,58.0,19110.0,39890.0,out-of-state,3198.0,84.0,,,07-30,59,,216,279,166,82
 university-of-portland,University of Portland,OR,Private (religious),2025-26,7686.0,7054.0,0.9178,695.0,0.0985,,,,,,1205.0,1325.0,28,33,4.0,80.0,46235.0,61000.0,private,,,,,02-15,156,,150,,,253
 university-of-puget-sound,University of Puget Sound,WA,Private,2025-26,4711.0,3411.0,0.7241,380.0,0.1114,157.0,91.0,0.5796,no,0.2395,1200.0,1370.0,27,32,30.0,90.0,58426.0,67550.0,private,12.0,1.0,,11-01,,,100,326,,,386
-university-of-redlands,University of Redlands,CA,Private,2021-22,3738.0,3100.0,0.8293,508.0,0.1639,12.0,12.0,1.0,no,0.0236,1108.0,1300.0,25,29,22.0,93.0,39456.0,55328.0,private,,,,,,,,274,,,
+university-of-redlands,University of Redlands,CA,Private,2021-22,3738.0,3100.0,0.8293,508.0,0.1639,12.0,12.0,1.0,no,0.0234,1108.0,1300.0,25,29,22.0,93.0,39456.0,55328.0,private,,,,,,,,274,,,
 university-of-rhode-island,University of Rhode Island,RI,Public,2025-26,28021.0,20892.0,0.7456,3431.0,0.1642,202.0,150.0,0.7426,no,0.0437,1090.0,1310.0,25,31,23.0,64.0,14829.0,35804.0,out-of-state,60.0,9.0,,11-01,02-01,148,,255,1001,801,568
 university-of-richmond,University of Richmond,VA,Private,2025-26,16560.0,3683.0,0.2224,857.0,0.2327,1154.0,421.0,0.3648,no,0.4912,1420.0,1490.0,33,34,19.0,100.0,56400.0,70725.0,private,2016.0,102.0,,11-01,01-01,,21,82,,,74
 university-of-rochester,University of Rochester,NY,Private,2025-26,21609.0,9056.0,0.4191,1231.0,0.1359,1129.0,472.0,0.4181,no,0.3834,1400.0,1510.0,31,34,16.0,97.0,67488.0,71750.0,private,741.0,262.0,,11-01,01-05,49,,59,251,136,111
