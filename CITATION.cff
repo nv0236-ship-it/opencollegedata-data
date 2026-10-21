@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "Open College Data: Common Data Set admissions facts verified against IPEDS"
+type: dataset
+authors:
+  - name: "Open College Data"
+url: "https://opencollegedata.org"
+repository: "https://github.com/nv0236-ship-it/opencollegedata-data"
+license: CC-BY-4.0
+date-released: "2026-10-20"

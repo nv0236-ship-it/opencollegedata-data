@@ -25,3 +25,14 @@ We acknowledge within 2 business days and ship accepted fixes with the next buil
 ## Licence and credit
 Data: CC BY 4.0 — use it anywhere, credit "Open College Data (opencollegedata.org)". Source filings belong to the
 colleges; federal data is public domain. Rankings belong to their publishers and are not in this repo.
+
+## Disclaimer and independence
+Numbers are read from the colleges' filings by software and by language model, checked against IPEDS, labelled by
+method and status, and corrected when reported. They can still be wrong or filed differently by the college: check the
+original filing (linked from every page on the site) before relying on a number. The data is provided as is, without
+warranty. Open College Data is independent: not affiliated with, sponsored by or endorsed by any college, the Common
+Data Set Initiative, the U.S. Department of Education or any ranking publisher. Rankings appear only per college, with
+credit; student posts are not in this repository.
+
+Requests to remove or change content: [TAKEDOWN.md](TAKEDOWN.md). Security: [SECURITY.md](SECURITY.md).
+Terms: https://opencollegedata.org/terms/ · Sources: https://opencollegedata.org/sources/
