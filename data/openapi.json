@@ -1,0 +1,177 @@
+{
+ "openapi": "3.1.0",
+ "info": {
+  "title": "Open College Data",
+  "version": "1",
+  "description": "Free Common Data Set admissions data for 320 US colleges, checked against IPEDS. CC BY 4.0: credit Open College Data (opencollegedata.org).",
+  "license": {
+   "name": "CC BY 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ },
+ "servers": [
+  {
+   "url": "https://opencollegedata.org"
+  }
+ ],
+ "paths": {
+  "/data/colleges-index.json": {
+   "get": {
+    "operationId": "colleges_index",
+    "summary": "Every college: name (and common short names) \u2192 slug.",
+    "parameters": [],
+    "responses": {
+     "200": {
+      "description": "OK",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/colleges/{slug}/{year}.json": {
+   "get": {
+    "operationId": "college_year",
+    "summary": "Every Common Data Set number a college filed for one year (e.g. 2025-26), with how it was read and whether it matches federal IPEDS data.",
+    "parameters": [
+     {
+      "name": "slug",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      },
+      "description": "college slug from colleges-index.json, e.g. boston-university"
+     },
+     {
+      "name": "year",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      },
+      "description": "Common Data Set year, e.g. 2025-26"
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "OK",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/colleges/{slug}/{year}.csv": {
+   "get": {
+    "operationId": "college_year_csv",
+    "summary": "The same, as CSV.",
+    "parameters": [
+     {
+      "name": "slug",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      },
+      "description": "college slug from colleges-index.json, e.g. boston-university"
+     },
+     {
+      "name": "year",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      },
+      "description": "Common Data Set year, e.g. 2025-26"
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "OK",
+      "content": {
+       "text/csv": {}
+      }
+     }
+    }
+   }
+  },
+  "/data/metrics.json": {
+   "get": {
+    "operationId": "metrics",
+    "summary": "One row per college-year: applicants, admits, admit rate, enrolled, yield, Early Decision, waitlist, test ranges, aid.",
+    "parameters": [],
+    "responses": {
+     "200": {
+      "description": "OK",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/data/odds.json": {
+   "get": {
+    "operationId": "model_inputs",
+    "summary": "Per college, latest year: seats, Early Decision pool, pool outside ED, early-round numbers, group factors, test ranges, trends, deadlines, and the numbered assumptions.",
+    "parameters": [],
+    "responses": {
+     "200": {
+      "description": "OK",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/data/insights.json": {
+   "get": {
+    "operationId": "insights",
+    "summary": "Cross-college findings, each with its rows.",
+    "parameters": [],
+    "responses": {
+     "200": {
+      "description": "OK",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/data/cds_facts.csv.gz": {
+   "get": {
+    "operationId": "all_facts",
+    "summary": "Every fact for every college-year in one file.",
+    "parameters": [],
+    "responses": {
+     "200": {
+      "description": "OK",
+      "content": {
+       "text/csv": {}
+      }
+     }
+    }
+   }
+  },
+  "/data/verification.csv": {
+   "get": {
+    "operationId": "verification",
+    "summary": "Each checked number against IPEDS, with the status.",
+    "parameters": [],
+    "responses": {
+     "200": {
+      "description": "OK",
+      "content": {
+       "text/csv": {}
+      }
+     }
+    }
+   }
+  }
+ }
+}

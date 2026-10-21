@@ -1,0 +1,1799 @@
+[
+{
+"id": "early-decision-boost",
+"cat": "Early Decision",
+"title": "Where does applying Early Decision help most?",
+"answer": "At the typical selective college, ED applicants are admitted at 2.4\u00d7 the rate of everyone else. At Northeastern University it is 8.8\u00d7.",
+"big": "2.4\u00d7",
+"rows": [
+[
+"Northeastern University",
+"northeastern-university",
+8.80096760319778
+],
+[
+"Dartmouth College",
+"dartmouth-college",
+5.73123929514907
+],
+[
+"Barnard College",
+"barnard-college",
+5.205536982154936
+],
+[
+"Tulane University",
+"tulane-university",
+5.055203722524127
+],
+[
+"Columbia University",
+"columbia-university",
+4.691781157277294
+],
+[
+"College of the Holy Cross",
+"college-of-the-holy-cross",
+4.029418802430313
+],
+[
+"Middlebury College",
+"middlebury-college",
+3.9543259822020143
+],
+[
+"Tufts University",
+"tufts-university",
+3.788746310782679
+],
+[
+"University of Pennsylvania",
+"university-of-pennsylvania",
+3.64513481488302
+],
+[
+"Williams College",
+"williams-college",
+3.5791609036422316
+],
+[
+"Brown University",
+"brown-university",
+3.521495779066154
+],
+[
+"Northwestern University",
+"northwestern-university",
+3.505270878703793
+],
+[
+"Vanderbilt University",
+"vanderbilt-university",
+3.4426354612850774
+],
+[
+"Amherst College",
+"amherst-college",
+3.283254131237293
+],
+[
+"Wesleyan University",
+"wesleyan-university",
+3.050534125385616
+]
+],
+"fmt": "x",
+"note": "ED admit rate \u00f7 admit rate outside ED, latest Common Data Set. ED pools are often stronger, so not all of the gap is the round itself.",
+"color": "#e8622c"
+},
+{
+"id": "ed-fills-the-class",
+"cat": "Early Decision",
+"title": "How much of the class is already filled by Early Decision?",
+"answer": "At 46 colleges, Early Decision admits make up half the first-year class or more, before regular applicants are read.",
+"big": "46",
+"rows": [
+[
+"Emory University",
+"emory-university",
+0.726957726957727
+],
+[
+"Middlebury College",
+"middlebury-college",
+0.7255520504731862
+],
+[
+"Northeastern University",
+"northeastern-university",
+0.6980994152046783
+],
+[
+"Barnard College",
+"barnard-college",
+0.6780626780626781
+],
+[
+"Davidson College",
+"davidson-college",
+0.6741996233521658
+],
+[
+"Hamilton College",
+"hamilton-college",
+0.6589958158995816
+],
+[
+"Tulane University",
+"tulane-university",
+0.6506996770721205
+],
+[
+"Grinnell College",
+"grinnell-college",
+0.6461187214611872
+],
+[
+"Bates College",
+"bates-college",
+0.6450304259634888
+],
+[
+"Claremont McKenna College",
+"claremont-mckenna-college",
+0.6447761194029851
+],
+[
+"Dartmouth College",
+"dartmouth-college",
+0.6373443983402489
+],
+[
+"Wesleyan University",
+"wesleyan-university",
+0.6327272727272727
+],
+[
+"Bucknell University",
+"bucknell-university",
+0.6325940212150434
+],
+[
+"Denison University",
+"denison-university",
+0.6324237560192616
+],
+[
+"Lehigh University",
+"lehigh-university",
+0.6293159609120521
+]
+],
+"fmt": "pct",
+"note": "ED admits as a share of enrolled first-years (assumes ED admits enroll).",
+"color": "#e8622c"
+},
+{
+"id": "applications-boom",
+"cat": "Trends",
+"title": "Which colleges are getting the most new applicants?",
+"answer": "Applications to Illinois Wesleyan University rose 173% between 2018-19 and 2025-26. Half the colleges here grew more than 31%.",
+"big": "+173%",
+"rows": [
+[
+"Illinois Wesleyan University",
+"illinois-wesleyan-university",
+1.7260237780713341
+],
+[
+"College of Charleston",
+"college-of-charleston",
+1.713490364025696
+],
+[
+"University of Tennessee-Knoxville",
+"university-of-tennessee-knoxville",
+1.6319108373661826
+],
+[
+"Arizona State University",
+"arizona-state-university",
+1.5909784510030147
+],
+[
+"Georgia State University",
+"georgia-state-university",
+1.5888793736236848
+],
+[
+"University of Mississippi",
+"university-of-mississippi",
+1.4475310649925182
+],
+[
+"Florida Atlantic University",
+"florida-atlantic-university",
+1.4123247663551401
+],
+[
+"University of Texas at Dallas",
+"university-of-texas-at-dallas",
+1.371982252381574
+],
+[
+"University of Florida",
+"university-of-florida",
+1.3267703380028273
+],
+[
+"New Jersey Institute of Technology",
+"new-jersey-institute-of-technology",
+1.215583465431045
+],
+[
+"Alfred University",
+"alfred-university",
+1.1803140773976444
+],
+[
+"University of Pittsburgh",
+"university-of-pittsburgh",
+1.1677998459322771
+],
+[
+"Auburn University",
+"auburn-university",
+1.1405916217096927
+],
+[
+"Clemson University",
+"clemson-university",
+1.132674640318946
+],
+[
+"University of Nevada-Reno",
+"university-of-nevada-reno",
+1.1093474426807761
+]
+],
+"fmt": "pct+",
+"note": "Change in first-year applicants from the first to the latest Common Data Set year.",
+"color": "#2a78d6"
+},
+{
+"id": "getting-harder",
+"cat": "Trends",
+"title": "Where is it getting harder to get in, fastest?",
+"answer": "70 colleges show a steady fall in their admit rate. Morehouse College is dropping about 8.2 points a year.",
+"big": "70",
+"rows": [
+[
+"Morehouse College",
+"morehouse-college",
+0.08222069372338568
+],
+[
+"University of Tennessee-Knoxville",
+"university-of-tennessee-knoxville",
+0.07422453628205483
+],
+[
+"Spelman College",
+"spelman-college",
+0.05747462508358436
+],
+[
+"Auburn University",
+"auburn-university",
+0.05436280460346911
+],
+[
+"Bennington College",
+"bennington-college",
+0.05095030336776977
+],
+[
+"University of Illinois at Urbana-Champaign",
+"university-of-illinois-at-urbana-champaign",
+0.04075348717464171
+],
+[
+"Bentley University",
+"bentley-university",
+0.04011356865387036
+],
+[
+"Smith College",
+"smith-college",
+0.03912777884065151
+],
+[
+"Fairfield University",
+"fairfield-university",
+0.03902346184843838
+],
+[
+"Centre College",
+"centre-college",
+0.03882359980630528
+],
+[
+"Bard College",
+"bard-college",
+0.032692039616325747
+],
+[
+"Sewanee: The University of the South",
+"sewanee-the-university-of-the-south",
+0.031529626416011744
+],
+[
+"Whitman College",
+"whitman-college",
+0.03150339596339674
+],
+[
+"University of Wisconsin-Madison",
+"university-of-wisconsin-madison",
+0.029213266660197874
+],
+[
+"Georgia State University",
+"georgia-state-university",
+0.028364870148496243
+]
+],
+"fmt": "pts",
+"note": "Points per year, from a straight-line fit to each college's admit rates (only clear trends).",
+"color": "#c5221f"
+},
+{
+"id": "most-admits-say-no",
+"cat": "Getting in",
+"title": "Which selective colleges do admitted students turn down most?",
+"answer": "At Reed College, only 12% of admitted students enroll. Low yield often means students treat it as a backup, or the cost doesn't work.",
+"big": "12%",
+"rows": [
+[
+"Reed College",
+"reed-college",
+0.12196861626248216
+],
+[
+"Franklin and Marshall College",
+"franklin-and-marshall-college",
+0.16015753199868724
+],
+[
+"University of California, Irvine",
+"university-of-california-irvine",
+0.17853965076187298
+],
+[
+"Kenyon College",
+"kenyon-college",
+0.19270346117867165
+],
+[
+"Oberlin College",
+"oberlin-college",
+0.19829589465530598
+],
+[
+"University of California, San Diego",
+"university-of-california-san-diego",
+0.19974906539663032
+],
+[
+"Trinity University",
+"trinity-university",
+0.2024932614555256
+],
+[
+"Lafayette College",
+"lafayette-college",
+0.2116144724840377
+],
+[
+"Macalester College",
+"macalester-college",
+0.21442966545747683
+],
+[
+"Trinity College",
+"trinity-college",
+0.22253258845437615
+],
+[
+"University of Richmond",
+"university-of-richmond",
+0.23269074124355146
+],
+[
+"Spelman College",
+"spelman-college",
+0.23623769595333577
+],
+[
+"Fairfield University",
+"fairfield-university",
+0.2370983446932814
+],
+[
+"Skidmore College",
+"skidmore-college",
+0.23723003085361674
+],
+[
+"Villanova University",
+"villanova-university",
+0.24821232123212322
+]
+],
+"fmt": "pct",
+"note": "Enrolled \u00f7 admitted, latest year, colleges admitting under 35%.",
+"color": "#c5221f"
+},
+{
+"id": "edge-for-women",
+"cat": "Who gets in",
+"title": "Where do women have the biggest admissions edge?",
+"answer": "At Franklin W. Olin College of Engineering, women are admitted at 3.1\u00d7 the rate of men.",
+"big": "3.1\u00d7",
+"rows": [
+[
+"Franklin W. Olin College of Engineering",
+"franklin-w-olin-college-of-engineering",
+3.1130912445488095
+],
+[
+"Harvey Mudd College",
+"harvey-mudd-college",
+2.59235941370598
+],
+[
+"California Institute of Technology",
+"california-institute-of-technology",
+2.42019359489239
+],
+[
+"Georgia Institute of Technology",
+"georgia-institute-of-technology",
+1.6059906220244236
+],
+[
+"Kenyon College",
+"kenyon-college",
+1.5183248311153346
+],
+[
+"Bucknell University",
+"bucknell-university",
+1.3917490962143408
+],
+[
+"University of California, Berkeley",
+"university-of-california-berkeley",
+1.3835849619093554
+],
+[
+"University of Texas at Austin",
+"university-of-texas-at-austin",
+1.3503037777820694
+],
+[
+"Skidmore College",
+"skidmore-college",
+1.315264254010917
+],
+[
+"Bates College",
+"bates-college",
+1.3124325254248734
+],
+[
+"Grinnell College",
+"grinnell-college",
+1.2995632021708863
+],
+[
+"University of Michigan",
+"university-of-michigan",
+1.2860908741498172
+],
+[
+"Pitzer College",
+"pitzer-college",
+1.2765528573092
+],
+[
+"Macalester College",
+"macalester-college",
+1.2750595527235162
+],
+[
+"Colgate University",
+"colgate-university",
+1.273872807247473
+]
+],
+"fmt": "x",
+"note": "Women's admit rate \u00f7 men's, latest Common Data Set.",
+"color": "#7a4fd6"
+},
+{
+"id": "edge-for-men",
+"cat": "Who gets in",
+"title": "Where do men have the biggest admissions edge?",
+"answer": "At University of Chicago, men are admitted at 1.7\u00d7 the rate of women.",
+"big": "1.7\u00d7",
+"rows": [
+[
+"University of Chicago",
+"university-of-chicago",
+1.6571288995474163
+],
+[
+"Brown University",
+"brown-university",
+1.598393062633569
+],
+[
+"United States Military Academy",
+"united-states-military-academy",
+1.443725520031827
+],
+[
+"Boston College",
+"boston-college",
+1.4418606022331526
+],
+[
+"Yale University",
+"yale-university",
+1.3579481044074615
+],
+[
+"Middlebury College",
+"middlebury-college",
+1.2934314006660386
+],
+[
+"Wake Forest University",
+"wake-forest-university",
+1.2889557549411157
+],
+[
+"Emory University",
+"emory-university",
+1.261535370373598
+],
+[
+"Pomona College",
+"pomona-college",
+1.2260148627701286
+],
+[
+"Tulane University",
+"tulane-university",
+1.2081135306338988
+],
+[
+"University of Southern California",
+"university-of-southern-california",
+1.2062059822146547
+],
+[
+"Swarthmore College",
+"swarthmore-college",
+1.1928332717664831
+],
+[
+"Dartmouth College",
+"dartmouth-college",
+1.1650127696556485
+],
+[
+"Florida State University",
+"florida-state-university",
+1.1537940819832326
+],
+[
+"University of Richmond",
+"university-of-richmond",
+1.131640350877193
+]
+],
+"fmt": "x",
+"note": "Men's admit rate \u00f7 women's, latest Common Data Set.",
+"color": "#1b6ec2"
+},
+{
+"id": "home-state-advantage",
+"cat": "Who gets in",
+"title": "Where does living in-state help the most?",
+"answer": "At University of North Carolina at Chapel Hill, in-state applicants are admitted at 5.7\u00d7 the out-of-state rate.",
+"big": "5.7\u00d7",
+"rows": [
+[
+"University of North Carolina at Chapel Hill",
+"university-of-north-carolina-at-chapel-hill",
+5.726863044069436
+],
+[
+"University of Texas at Austin",
+"university-of-texas-at-austin",
+4.771970459400305
+],
+[
+"Georgia Institute of Technology",
+"georgia-institute-of-technology",
+2.9115720458168877
+],
+[
+"Florida State University",
+"florida-state-university",
+2.516977760417123
+],
+[
+"Florida International University",
+"florida-international-university",
+2.258253995940123
+],
+[
+"University of South Florida",
+"university-of-south-florida",
+2.0945427746881116
+],
+[
+"University of Tennessee-Knoxville",
+"university-of-tennessee-knoxville",
+2.07609313516929
+],
+[
+"University of Virginia-Main Campus",
+"university-of-virginia-main-campus",
+1.8753345320794672
+],
+[
+"University of California, Berkeley",
+"university-of-california-berkeley",
+1.8657798524261018
+],
+[
+"University of Central Florida",
+"university-of-central-florida",
+1.7013062673399537
+],
+[
+"Florida Gulf Coast University",
+"florida-gulf-coast-university",
+1.6549823102103
+],
+[
+"Clemson University",
+"clemson-university",
+1.6012117430081565
+],
+[
+"University of North Carolina Wilmington",
+"university-of-north-carolina-wilmington",
+1.5757323962509886
+],
+[
+"University of Illinois at Urbana-Champaign",
+"university-of-illinois-at-urbana-champaign",
+1.5674100705554603
+],
+[
+"University of Georgia",
+"university-of-georgia",
+1.510745295659334
+]
+],
+"fmt": "x",
+"note": "In-state admit rate \u00f7 out-of-state, public universities, latest year.",
+"color": "#1b9e5a"
+},
+{
+"id": "scores-optional-for-real",
+"cat": "Test scores",
+"title": "At which selective colleges do most students apply without scores?",
+"answer": "At Trinity College, at most 13% of first-years sent an SAT or ACT.",
+"big": "13%",
+"rows": [
+[
+"Trinity College",
+"trinity-college",
+0.13
+],
+[
+"Kenyon College",
+"kenyon-college",
+0.155
+],
+[
+"Fairfield University",
+"fairfield-university",
+0.19
+],
+[
+"Bates College",
+"bates-college",
+0.213
+],
+[
+"California Polytechnic State University, San Luis Obispo",
+"california-polytechnic-state-university-san-luis-obispo",
+0.22829999999999998
+],
+[
+"Babson College",
+"babson-college",
+0.28
+],
+[
+"Northeastern University",
+"northeastern-university",
+0.28
+],
+[
+"Villanova University",
+"villanova-university",
+0.28
+],
+[
+"Skidmore College",
+"skidmore-college",
+0.33
+],
+[
+"University of Richmond",
+"university-of-richmond",
+0.331
+],
+[
+"Pitzer College",
+"pitzer-college",
+0.35
+],
+[
+"Lafayette College",
+"lafayette-college",
+0.36
+],
+[
+"Franklin and Marshall College",
+"franklin-and-marshall-college",
+0.38
+],
+[
+"New York University",
+"new-york-university",
+0.38
+],
+[
+"Tulane University",
+"tulane-university",
+0.38
+]
+],
+"fmt": "pct",
+"note": "Highest possible share of enrolled first-years who sent a score (SAT and ACT may overlap).",
+"color": "#2a78d6"
+},
+{
+"id": "waitlist-long-shot",
+"cat": "Getting in",
+"title": "How often does the waitlist turn into an offer?",
+"answer": "At the median college here, 9% of students who stay on the waitlist get in. At Harvey Mudd College, 0.0%.",
+"big": "9%",
+"rows": [
+[
+"Harvey Mudd College",
+"harvey-mudd-college",
+0.0
+],
+[
+"University of California, Berkeley",
+"university-of-california-berkeley",
+0.0
+],
+[
+"University of California, Riverside",
+"university-of-california-riverside",
+0.0
+],
+[
+"University of Illinois at Urbana-Champaign",
+"university-of-illinois-at-urbana-champaign",
+0.0002316423442205235
+],
+[
+"University of Florida",
+"university-of-florida",
+0.00036536353671903543
+],
+[
+"Florida State University",
+"florida-state-university",
+0.0021204410517387615
+],
+[
+"Washington and Lee University",
+"washington-and-lee-university",
+0.0033112582781456954
+],
+[
+"Purdue University",
+"purdue-university",
+0.004838709677419355
+],
+[
+"Carnegie Mellon University",
+"carnegie-mellon-university",
+0.007291877658497063
+],
+[
+"Fairfield University",
+"fairfield-university",
+0.008881711748082357
+],
+[
+"Rensselaer Polytechnic Institute",
+"rensselaer-polytechnic-institute",
+0.01001669449081803
+],
+[
+"Connecticut College",
+"connecticut-college",
+0.010615711252653927
+],
+[
+"Villanova University",
+"villanova-university",
+0.012698412698412698
+],
+[
+"Colby College",
+"colby-college",
+0.013067400275103164
+],
+[
+"Trinity College",
+"trinity-college",
+0.0136986301369863
+]
+],
+"fmt": "pct",
+"note": "Admitted from the waitlist \u00f7 students who accepted a waitlist place, latest year (200+ on the list).",
+"color": "#c5221f"
+},
+{
+"id": "meets-full-need",
+"cat": "Money",
+"title": "Which colleges meet 100% of financial need?",
+"answer": "72 colleges here report meeting the full demonstrated need of every first-year who has need.",
+"big": "72",
+"rows": [
+[
+"Massachusetts Institute of Technology",
+"massachusetts-institute-of-technology",
+1.0
+],
+[
+"Williams College",
+"williams-college",
+1.0
+],
+[
+"Amherst College",
+"amherst-college",
+1.0
+],
+[
+"Princeton University",
+"princeton-university",
+1.0
+],
+[
+"Stanford University",
+"stanford-university",
+1.0
+],
+[
+"Bowdoin College",
+"bowdoin-college",
+1.0
+],
+[
+"Claremont McKenna College",
+"claremont-mckenna-college",
+1.0
+],
+[
+"Harvard University",
+"harvard-university",
+1.0
+],
+[
+"Pomona College",
+"pomona-college",
+1.0
+],
+[
+"Swarthmore College",
+"swarthmore-college",
+1.0
+],
+[
+"Yale University",
+"yale-university",
+1.0
+],
+[
+"Columbia University",
+"columbia-university",
+1.0
+],
+[
+"California Institute of Technology",
+"california-institute-of-technology",
+1.0
+],
+[
+"University of Pennsylvania",
+"university-of-pennsylvania",
+1.0
+],
+[
+"Vanderbilt University",
+"vanderbilt-university",
+1.0
+]
+],
+"fmt": "pct",
+"note": "Average % of need met for first-years with need, latest Common Data Set.",
+"color": "#1b9e5a"
+},
+{
+"id": "students-say-early-helps",
+"cat": "Early Decision",
+"title": "Do students who post their results see an Early Decision edge?",
+"answer": "Among students who posted results, ED applicants were admitted more often than Regular Decision applicants at 15 of 19 colleges.",
+"big": "15/19",
+"rows": [
+[
+"Northeastern University",
+"northeastern-university",
+3.9531914893617026
+],
+[
+"University of Chicago",
+"university-of-chicago",
+2.8
+],
+[
+"Vanderbilt University",
+"vanderbilt-university",
+2.7395833333333335
+],
+[
+"Dartmouth College",
+"dartmouth-college",
+1.8541666666666665
+],
+[
+"Northwestern University",
+"northwestern-university",
+1.6544117647058822
+],
+[
+"Rice University",
+"rice-university",
+1.4326647564469914
+],
+[
+"Duke University",
+"duke-university",
+1.4254658385093169
+],
+[
+"Emory University",
+"emory-university",
+1.3759590792838876
+],
+[
+"New York University",
+"new-york-university",
+1.3614457831325302
+],
+[
+"Cornell University",
+"cornell-university",
+1.3540856031128403
+],
+[
+"Williams College",
+"williams-college",
+1.3112391930835736
+],
+[
+"Brown University",
+"brown-university",
+1.2957198443579767
+],
+[
+"Columbia University",
+"columbia-university",
+1.206896551724138
+],
+[
+"University of Pennsylvania",
+"university-of-pennsylvania",
+1.127049180327869
+],
+[
+"Johns Hopkins University",
+"johns-hopkins-university",
+1.0949152542372882
+]
+],
+"fmt": "x",
+"note": "Self-reported results on Reddit and admissions forums: posters' ED admit rate \u00f7 RD admit rate. Posters are not a random sample.",
+"color": "#e8622c"
+},
+{
+"id": "most-loved",
+"cat": "Getting in",
+"title": "Which colleges do admitted students almost never turn down?",
+"answer": "88% of students admitted to University of Chicago enroll, the highest yield among selective colleges here.",
+"big": "88%",
+"rows": [
+[
+"University of Chicago",
+"university-of-chicago",
+0.8759195684158901
+],
+[
+"Massachusetts Institute of Technology",
+"massachusetts-institute-of-technology",
+0.863568215892054
+],
+[
+"United States Naval Academy",
+"united-states-naval-academy",
+0.8517985611510791
+],
+[
+"Harvard University",
+"harvard-university",
+0.836245631552671
+],
+[
+"Stanford University",
+"stanford-university",
+0.7988705473501303
+],
+[
+"United States Military Academy",
+"united-states-military-academy",
+0.7790091264667536
+],
+[
+"United States Air Force Academy",
+"united-states-air-force-academy",
+0.7787610619469026
+],
+[
+"Princeton University",
+"princeton-university",
+0.7537473233404711
+],
+[
+"Dartmouth College",
+"dartmouth-college",
+0.709240729841083
+],
+[
+"Yale University",
+"yale-university",
+0.6977997305792546
+],
+[
+"University of Pennsylvania",
+"university-of-pennsylvania",
+0.6778711484593838
+],
+[
+"Barnard College",
+"barnard-college",
+0.6698473282442748
+],
+[
+"Brown University",
+"brown-university",
+0.6516300227445034
+],
+[
+"Columbia University",
+"columbia-university",
+0.6491666666666667
+],
+[
+"University of Notre Dame",
+"university-of-notre-dame",
+0.6379518072289156
+]
+],
+"fmt": "pct",
+"note": "Enrolled \u00f7 admitted, latest year, colleges admitting under 35%.",
+"color": "#1b9e5a"
+},
+{
+"id": "hardest-to-get-into",
+"cat": "Getting in",
+"title": "Which colleges are the hardest to get into?",
+"answer": "California Institute of Technology admitted 2.6% of applicants. 28 colleges here admit fewer than 1 in 10.",
+"big": "2.6%",
+"rows": [
+[
+"California Institute of Technology",
+"california-institute-of-technology",
+0.02569284064665127
+],
+[
+"Stanford University",
+"stanford-university",
+0.03795798568743198
+],
+[
+"Yale University",
+"yale-university",
+0.03871898742980336
+],
+[
+"Columbia University",
+"columbia-university",
+0.03992347999667304
+],
+[
+"Harvard University",
+"harvard-university",
+0.04182239575720878
+],
+[
+"Princeton University",
+"princeton-university",
+0.04415762475474553
+],
+[
+"University of Chicago",
+"university-of-chicago",
+0.04478070849713395
+],
+[
+"Massachusetts Institute of Technology",
+"massachusetts-institute-of-technology",
+0.04555855332809672
+],
+[
+"University of Pennsylvania",
+"university-of-pennsylvania",
+0.04921151301279224
+],
+[
+"Duke University",
+"duke-university",
+0.05239372715651501
+],
+[
+"Vanderbilt University",
+"vanderbilt-university",
+0.05380114532326334
+],
+[
+"Brown University",
+"brown-university",
+0.05394241779813512
+],
+[
+"Northeastern University",
+"northeastern-university",
+0.05624382458007145
+],
+[
+"Dartmouth College",
+"dartmouth-college",
+0.06018420120439249
+],
+[
+"Johns Hopkins University",
+"johns-hopkins-university",
+0.061123380887005314
+]
+],
+"fmt": "pct",
+"note": "Admitted \u00f7 applied, latest Common Data Set (3,000+ applicants).",
+"color": "#c5221f"
+},
+{
+"id": "biggest-pools",
+"cat": "Getting in",
+"title": "Which colleges get the most applications?",
+"answer": "University of California, Los Angeles received 146,272 first-year applications.",
+"big": "146k",
+"rows": [
+[
+"University of California, Los Angeles",
+"university-of-california-los-angeles",
+146.272
+],
+[
+"University of California, San Diego",
+"university-of-california-san-diego",
+136.75
+],
+[
+"University of California, Berkeley",
+"university-of-california-berkeley",
+126.864
+],
+[
+"University of California, Irvine",
+"university-of-california-irvine",
+124.231
+],
+[
+"New York University",
+"new-york-university",
+110.807
+],
+[
+"University of California, Santa Barbara",
+"university-of-california-santa-barbara",
+110.187
+],
+[
+"University of Michigan",
+"university-of-michigan",
+109.112
+],
+[
+"Pennsylvania State University - University Park",
+"pennsylvania-state-university-university-park",
+106.547
+],
+[
+"Northeastern University",
+"northeastern-university",
+105.256
+],
+[
+"University of California, Davis",
+"university-of-california-davis",
+102.988
+],
+[
+"University of Texas at Austin",
+"university-of-texas-at-austin",
+90.69
+],
+[
+"University of Florida",
+"university-of-florida",
+90.523
+],
+[
+"San Diego State University",
+"san-diego-state-university",
+89.972
+],
+[
+"California State University, Long Beach",
+"california-state-university-long-beach",
+88.276
+],
+[
+"Florida State University",
+"florida-state-university",
+85.469
+]
+],
+"fmt": "k",
+"note": "First-year applicants, latest Common Data Set.",
+"color": "#2a78d6"
+},
+{
+"id": "waitlist-best-odds",
+"cat": "Getting in",
+"title": "Where does the waitlist actually move?",
+"answer": "At Ohio State University, 90% of students who stayed on the waitlist were admitted.",
+"big": "90%",
+"rows": [
+[
+"Ohio State University",
+"ohio-state-university",
+0.8994732221246707
+],
+[
+"University of Colorado Boulder",
+"university-of-colorado-boulder",
+0.8696027633851469
+],
+[
+"Pepperdine University",
+"pepperdine-university",
+0.8251231527093597
+],
+[
+"DePaul University",
+"depaul-university",
+0.8085106382978723
+],
+[
+"Stony Brook University",
+"stony-brook-university",
+0.6669235214794837
+],
+[
+"American University",
+"american-university",
+0.6621848739495798
+],
+[
+"Quinnipiac University",
+"quinnipiac-university",
+0.6084905660377359
+],
+[
+"Stevens Institute of Technology",
+"stevens-institute-of-technology",
+0.55
+],
+[
+"University of California, Santa Barbara",
+"university-of-california-santa-barbara",
+0.5328487404283654
+],
+[
+"University of Oregon",
+"university-of-oregon",
+0.5102781136638452
+],
+[
+"George Mason University",
+"george-mason-university",
+0.4753722794959908
+],
+[
+"University of San Francisco",
+"university-of-san-francisco",
+0.4739583333333333
+],
+[
+"Worcester Polytechnic Institute",
+"worcester-polytechnic-institute",
+0.46938775510204084
+],
+[
+"Chapman University",
+"chapman-university",
+0.4571678321678322
+],
+[
+"University of Maryland, Baltimore County",
+"university-of-maryland-baltimore-county",
+0.4511904761904762
+]
+],
+"fmt": "pct",
+"note": "Admitted from the waitlist \u00f7 students who accepted a place on it, latest year (200+ on the list).",
+"color": "#1b9e5a"
+},
+{
+"id": "international-odds",
+"cat": "Who gets in",
+"title": "Where do international applicants face the steepest odds?",
+"answer": "At Washington and Lee University, international applicants are admitted at 0.13\u00d7 the overall rate.",
+"big": "0.13\u00d7",
+"rows": [
+[
+"Washington and Lee University",
+"washington-and-lee-university",
+0.13207569412312525
+],
+[
+"Lehigh University",
+"lehigh-university",
+0.14533306932363568
+],
+[
+"Fairfield University",
+"fairfield-university",
+0.15208772427166914
+],
+[
+"Trinity College",
+"trinity-college",
+0.16889248757978859
+],
+[
+"Bucknell University",
+"bucknell-university",
+0.1841221829479359
+],
+[
+"Carleton College",
+"carleton-college",
+0.18423396040417317
+],
+[
+"Bowdoin College",
+"bowdoin-college",
+0.18463522599056226
+],
+[
+"Amherst College",
+"amherst-college",
+0.187670313606571
+],
+[
+"Davidson College",
+"davidson-college",
+0.188511476705716
+],
+[
+"Hamilton College",
+"hamilton-college",
+0.19699750637234792
+],
+[
+"Bates College",
+"bates-college",
+0.21404572596136737
+],
+[
+"Pitzer College",
+"pitzer-college",
+0.2231072866621595
+],
+[
+"Reed College",
+"reed-college",
+0.22533265902986177
+],
+[
+"Wellesley College",
+"wellesley-college",
+0.2309972244049323
+],
+[
+"Lafayette College",
+"lafayette-college",
+0.23458038422649144
+]
+],
+"fmt": "x2",
+"note": "International admit rate \u00f7 overall admit rate, latest year, selective colleges.",
+"color": "#7a4fd6"
+},
+{
+"id": "sat-sending-falling",
+"cat": "Trends",
+"title": "Where are fewer and fewer students sending the SAT?",
+"answer": "At University of California, Merced, the share of first-years sending an SAT is falling about 26.7 points a year.",
+"big": "167",
+"rows": [
+[
+"University of California, Merced",
+"university-of-california-merced",
+0.267
+],
+[
+"San Diego State University",
+"san-diego-state-university",
+0.221
+],
+[
+"California State University, Los Angeles",
+"california-state-university-los-angeles",
+0.21657142857142858
+],
+[
+"CUNY Bernard M Baruch College",
+"cuny-bernard-m-baruch-college",
+0.1702857142857143
+],
+[
+"SUNY College at Oswego",
+"suny-college-at-oswego",
+0.1702857142857143
+],
+[
+"SUNY at Albany",
+"suny-at-albany",
+0.16566889985895628
+],
+[
+"California State University, Fullerton",
+"california-state-university-fullerton",
+0.16504035714285714
+],
+[
+"Seattle University",
+"seattle-university",
+0.1522
+],
+[
+"San Jose State University",
+"san-jose-state-university",
+0.1514285714285714
+],
+[
+"Alfred University",
+"alfred-university",
+0.1502702702702703
+],
+[
+"University of Massachusetts Boston",
+"university-of-massachusetts-boston",
+0.14228571428571427
+],
+[
+"SUNY College at Geneseo",
+"suny-college-at-geneseo",
+0.14103571428571426
+],
+[
+"University of Maine",
+"university-of-maine",
+0.1392857142857143
+],
+[
+"Fordham University",
+"fordham-university",
+0.1352
+],
+[
+"Marist College",
+"marist-college",
+0.13199999999999998
+]
+],
+"fmt": "pts",
+"note": "Points per year, straight-line fit to the share of enrolled first-years who sent an SAT.",
+"color": "#2a78d6"
+},
+{
+"id": "ed2-second-chance",
+"cat": "Early Decision",
+"title": "Which selective colleges offer a second Early Decision round?",
+"answer": "49 selective colleges here run Early Decision II, a binding round in January for students whose first choice said no.",
+"big": "49",
+"rows": [
+[
+"Bowdoin College",
+"bowdoin-college",
+0.0681381274474902
+],
+[
+"Claremont McKenna College",
+"claremont-mckenna-college",
+0.09439400489984147
+],
+[
+"Pomona College",
+"pomona-college",
+0.0675686824519429
+],
+[
+"Swarthmore College",
+"swarthmore-college",
+0.07518276260100039
+],
+[
+"Harvey Mudd College",
+"harvey-mudd-college",
+0.12325091048495304
+],
+[
+"Johns Hopkins University",
+"johns-hopkins-university",
+0.061123380887005314
+],
+[
+"Rice University",
+"rice-university",
+0.0801282922453861
+],
+[
+"Wellesley College",
+"wellesley-college",
+0.14789560310369151
+],
+[
+"Vassar College",
+"vassar-college",
+0.2093002338550099
+],
+[
+"Washington and Lee University",
+"washington-and-lee-university",
+0.13544572129867233
+],
+[
+"Hamilton College",
+"hamilton-college",
+0.13589398023360288
+],
+[
+"Wesleyan University",
+"wesleyan-university",
+0.1636946503706672
+],
+[
+"Carleton College",
+"carleton-college",
+0.2177751618599176
+],
+[
+"Davidson College",
+"davidson-college",
+0.12616142393372887
+],
+[
+"Grinnell College",
+"grinnell-college",
+0.1451117032178725
+]
+],
+"fmt": "pct",
+"note": "Colleges admitting under 35% that report an ED II closing date; bar shows the overall admit rate.",
+"color": "#e8622c"
+},
+{
+"id": "biggest-grants",
+"cat": "Money",
+"title": "Which colleges give the biggest need-based grants?",
+"answer": "First-years with need at Williams College received an average grant of $80,302.",
+"big": "$80k",
+"rows": [
+[
+"Williams College",
+"williams-college",
+80.302
+],
+[
+"Princeton University",
+"princeton-university",
+79.32
+],
+[
+"University of Chicago",
+"university-of-chicago",
+78.651
+],
+[
+"Vanderbilt University",
+"vanderbilt-university",
+77.563
+],
+[
+"Columbia University",
+"columbia-university",
+76.553
+],
+[
+"Duke University",
+"duke-university",
+76.455
+],
+[
+"Amherst College",
+"amherst-college",
+76.445
+],
+[
+"Swarthmore College",
+"swarthmore-college",
+74.043
+],
+[
+"Yale University",
+"yale-university",
+74.04
+],
+[
+"Rice University",
+"rice-university",
+73.663
+],
+[
+"Massachusetts Institute of Technology",
+"massachusetts-institute-of-technology",
+73.398
+],
+[
+"California Institute of Technology",
+"california-institute-of-technology",
+73.312
+],
+[
+"Harvard University",
+"harvard-university",
+72.749
+],
+[
+"Colgate University",
+"colgate-university",
+72.605
+],
+[
+"Barnard College",
+"barnard-college",
+72.461
+]
+],
+"fmt": "k$",
+"note": "Average need-based scholarship or grant for first-years with need, latest Common Data Set.",
+"color": "#1b9e5a"
+},
+{
+"id": "national-picture",
+"cat": "Trends",
+"title": "What is changing across all colleges at once?",
+"answer": "Applications are rising steadily at 186 of 294 colleges and falling at 7. Yield is falling at 113.",
+"big": "186/294",
+"rows": [
+[
+"Applicants",
+"",
+0.6326530612244898
+],
+[
+"% of class via ED",
+"",
+0.20930232558139536
+],
+[
+"Admit rate",
+"",
+0.1598639455782313
+],
+[
+"% of need met",
+"",
+0.1384083044982699
+],
+[
+"% international",
+"",
+0.10238907849829351
+],
+[
+"% women in the class",
+"",
+0.09183673469387756
+],
+[
+"Yield",
+"",
+0.06462585034013606
+],
+[
+"ED admit rate",
+"",
+0.0390625
+],
+[
+"% sending an SAT",
+"",
+0.028985507246376812
+]
+],
+"fmt": "pct",
+"note": "Share of colleges where each measure shows a clear rising trend.",
+"color": "#2a78d6"
+}
+]

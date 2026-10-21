@@ -1,0 +1,3 @@
+slug,year,field,current,correct,source_url,note
+adelphi-university,2025-26,file,Allegheny College filing,dropped,https://opencollegedata.org/colleges/adelphi-university/,the 2025-26 file was another college's
+university-of-missouri-columbia,2024-25,applicants,14068,24490,https://nces.ed.gov/ipeds/,IPEDS value used; CDS figure implausible
